@@ -1,0 +1,1 @@
+cmake -S . -B buildlinux -DCMAKE_TOOLCHAIN_FILE=${VCPKG_ROOT}/scripts/buildsystems/vcpkg.cmake"
