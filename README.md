@@ -35,3 +35,6 @@
 - 确保CMake版本符合要求（3.10+），否则可能导致配置失败。
 - 若需修改依赖版本，可通过vcpkg指定版本号（如`glfw3@3.3.8`）。
 - 首次构建可能需要较长时间下载和编译依赖，请耐心等待。
+
+## 效果图
+![](https://cdn.jsdelivr.net/gh/grayondream/MyImageBlob@main/imgs/GIF%202025-7-19%2014-23-20.gif)
