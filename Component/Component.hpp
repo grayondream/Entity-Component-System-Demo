@@ -1,0 +1,5 @@
+#include "Component/Player.hpp"
+#include "Component/Transform.hpp"
+#include "Component/KeyBoard.hpp"
+#include "Component/RenderColor.hpp"
+#include "Component/Velocity.hpp"
